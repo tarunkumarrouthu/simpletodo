@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.button {
+  background-color: #ffffff;
+  color: #ff0b37;
+  font-family: 'Roboto';
+  border-radius: 20px;
+  border: 1px solid #ff0b37;
+  padding: 20px;
+  margin: 10px;
+  cursor: pointer;
+  outline: none;
+}
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
